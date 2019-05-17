@@ -1,0 +1,69 @@
+    Z    Z    Z    Z    G    Z    Z    Z    B    P
+    Z    Z    Z    Z    B    Z    Z    B    P    B
+    Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    G    Z    Z    S   BW   GS   BG    B    G    Z
+    Z    Z    Z    Z    S    B   PB  PBG    B    G
+    Z    Z    Z    Z    Z    Z    B    B    P    B
+    B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    P    B    G    Z    B    Z    Z    Z    Z    Z
+    B    Z    S   BG    P    B    Z    Z    Z    Z
+    Z    S    W    S   BG    G    G    Z    G    Z
+
+    B    B    B    P    B    B    Z    G    Z    Z
+	PB   PB   PB    B    B    P    B    Z    G    Z
+    PB    B   PB    B    P    B    P    B    Z    B
+    B    Z    B    Z   BS    Z    B    G    B    P
+    Z    Z    Z   BS   PW   BS    Z    Z    B    B
+	Z    Z    B    P  BGS    Z    Z   BG    P    B
+    Z    Z   BG    B    Z    Z    Z    G    B    P
+     G    B    P    B    Z    Z    Z    Z    Z   BG
+     Z    Z    B    B    G    Z    Z    Z    B    Z
+     Z    Z    B    P    B    Z    Z    B    P    B
+
+    Z    Z    Z    Z    G    Z    Z    Z    B    P
+    Z    Z    Z    Z    B    Z    Z    B    P    B
+    Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    G    Z    Z    S   BW   GS   BG    B    G    Z
+    Z    Z    Z    Z    S    B   PB  PBG    B    G
+    Z    Z    Z    Z    Z    Z    B    B    P    B
+    B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    P    B    G    Z    B    Z    Z    Z    Z    Z
+    B    Z    S   BG    P    B    Z    Z    Z    Z
+    Z    S    W    S   BG    G    G    Z    G    Z
+
+
+
+
+    Z    Z    Z    Z    Z    Z    Z    G    Z    Z
+    Z    Z    Z    G    S    Z    Z    Z    Z    Z
+    Z    Z    Z    S    W  BGS    Z    Z    Z    Z
+    B    B    Z    B   BS    P    B    Z    Z    Z
+    PB   PB    B    P    B    B    Z    Z    Z    Z
+    B   BG    Z    B    G    G    Z    G    Z    G
+    Z    B    Z    Z    Z    Z    Z    Z    Z    Z
+    B   PB    B    Z    Z    Z    Z    G    Z    Z
+    B   PB    B    Z    Z    G    Z    G    Z    Z
+    Z    B    Z    Z    Z    Z    Z    Z    Z    Z
+
+   PG   BG    Z    Z    Z    Z    Z    Z    B    Z
+   BG    Z    S    Z    Z    Z    G   BG    P    B
+    Z    S   BW   GS    Z    Z   BG    G    B    Z
+    G    B   PS    B    Z    B    P    B    Z    Z
+    Z    Z    B    B    B    P    B    Z    Z    G
+    G    G    B    P    B    B    Z    G    Z    Z
+    Z    Z    G   BG    Z    B    Z    Z    G    Z
+    Z    Z    G    Z    B   PB   BG    Z    Z    Z
+    Z    Z    Z    Z    B  PBG    B    G    Z    Z
+    Z    Z    Z    Z    Z    B    Z    Z    Z    Z
+
+
+    Z    G    Z    Z    Z    Z    Z    B    P    B
+    Z    G    Z    Z    Z    Z    Z    Z    B    P
+   BG    Z    G    Z    Z    S    Z    G    Z   BG
+    P    B    G    G    S    W    S    B    Z    Z
+    B    Z    G    Z    G    S    B   PB    B    Z
+    Z    Z    Z    Z    G    Z    B   PB    B    Z
+    Z    G    Z    Z    Z    B   PG    B    P    B
+    Z    Z    B    Z    Z    G    B    P    B    B
+    Z    B    P    B    Z    Z    Z    B    B    P
+    Z    Z   BG    Z    Z    Z    G    B   PG    B

@@ -1,0 +1,1554 @@
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    0    0    0    0    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    A    0    0    0    0    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 1
+Score: 0
+Steps: 0/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    0    0    0    0    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    A    0    0    0    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 2
+Score: 0
+Steps: 1/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    0    0    0    0    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    A    0    0    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 3
+Score: -200
+Steps: 2/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    0    0    0    0    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    A    0    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 4
+Score: -200
+Steps: 3/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    0    0    0    0    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    A    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 5
+Score: -100
+Steps: 4/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    0    0    0    A    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 4
+Score: 0
+Steps: 6/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    0    0    A    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 3
+Score: 0
+Steps: 7/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    0    A    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 2
+Score: 0
+Steps: 8/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    0    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    A    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 1
+Score: 0
+Steps: 9/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    A    0    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 2
+Score: 0
+Steps: 11/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    A    0    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 3
+Score: 100
+Steps: 12/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    A    0    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 4
+Score: 100
+Steps: 13/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    0    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    A    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 5
+Score: 100
+Steps: 14/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    0    A    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 4
+Score: 100
+Steps: 16/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    0    A    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 3
+Score: 100
+Steps: 17/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    0    A    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 2
+Score: 100
+Steps: 18/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    A    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 1
+Score: 100
+Steps: 19/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    0    A    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 2
+Score: 100
+Steps: 21/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    A    X    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 1
+Score: 100
+Steps: 22/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    A    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 6 1
+Score: 100
+Steps: 23/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    A    0    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 6 2
+Score: 100
+Steps: 24/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    A    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    0    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 6 3
+Score: 100
+Steps: 25/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    A    0    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 3
+Score: 100
+Steps: 26/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    A    0    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 4
+Score: 100
+Steps: 27/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    A    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    0    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 5
+Score: 100
+Steps: 28/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    A    0    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 5
+Score: 100
+Steps: 29/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    A    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    0    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 6
+Score: 100
+Steps: 30/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    A    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    0    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 6
+Score: 100
+Steps: 31/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    0    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    A    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 6
+Score: 100
+Steps: 32/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    A    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    0    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 7
+Score: 100
+Steps: 34/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    A    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    0    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 7
+Score: 100
+Steps: 35/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    0    A    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 7
+Score: 200
+Steps: 36/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    A    X    0    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 6
+Score: 300
+Steps: 37/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    A    0    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 8
+Score: 300
+Steps: 39/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    A    0         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 9
+Score: 400
+Steps: 40/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    0    0    0         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    A         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 10
+Score: 400
+Steps: 41/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    0    0    A         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 10
+Score: 400
+Steps: 42/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    0    A    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 9
+Score: 400
+Steps: 43/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    0    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    A    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 2 8
+Score: 400
+Steps: 44/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    A    0    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 8
+Score: 400
+Steps: 45/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    A    0         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 9
+Score: 400
+Steps: 46/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    0         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    A         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 3 10
+Score: 400
+Steps: 47/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    0    A         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 10
+Score: 400
+Steps: 48/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    0    A    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 9
+Score: 400
+Steps: 49/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    0    A    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 8
+Score: 400
+Steps: 50/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    A    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 4 7
+Score: 400
+Steps: 51/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    0    A    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 7
+Score: 400
+Steps: 52/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    A    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 6
+Score: 400
+Steps: 53/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    0    A    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 6 6
+Score: 400
+Steps: 54/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    0    A    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 6 5
+Score: 400
+Steps: 55/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    0    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    A    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 6 4
+Score: 400
+Steps: 56/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    0    A    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 7 4
+Score: 400
+Steps: 57/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    0    A    X    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 7 3
+Score: 400
+Steps: 58/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    0    A    X    X    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 7 2
+Score: 400
+Steps: 59/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    A    X    X    X    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 7 1
+Score: 500
+Steps: 60/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    A    0    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 8 1
+Score: 500
+Steps: 61/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    A    0    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 8 2
+Score: 500
+Steps: 62/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    A    0    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 8 3
+Score: 500
+Steps: 63/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    A    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    0    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 8 4
+Score: 500
+Steps: 64/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    A    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 7 5
+Score: 500
+Steps: 66/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    0    A    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 9 3
+Score: 500
+Steps: 70/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    0    A    X    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 9 2
+Score: 500
+Steps: 71/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    0    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    A    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 9 1
+Score: 500
+Steps: 72/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    A    0    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 1
+Score: 500
+Steps: 73/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    A    0    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 2
+Score: 500
+Steps: 74/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    A    0    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 3
+Score: 500
+Steps: 75/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    A    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    0    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 4
+Score: 500
+Steps: 76/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    A    0    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 9 4
+Score: 500
+Steps: 77/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    A    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 9 5
+Score: 500
+Steps: 78/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    A    0    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 5
+Score: 600
+Steps: 79/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    A    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    0    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 6
+Score: 600
+Steps: 80/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    A    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    0    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 9 6
+Score: 600
+Steps: 81/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    A    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 8 6
+Score: 600
+Steps: 82/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    A    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    0    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 9 7
+Score: 600
+Steps: 84/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    A    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    0    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 8 7
+Score: 600
+Steps: 85/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    0    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    A    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 7 7
+Score: 700
+Steps: 86/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    A    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    0    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 8 8
+Score: 700
+Steps: 88/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    0    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    A    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 7 8
+Score: 700
+Steps: 89/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    A    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    X    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 8 9
+Score: 800
+Steps: 91/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    A    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    X    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    X    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 9 8
+Score: 800
+Steps: 93/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    A    0    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    X    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    X    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    X    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 7
+Score: 800
+Steps: 95/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    X    A    0    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    X    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    X    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    X    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 8
+Score: 800
+Steps: 96/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    X    X    A    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    X    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    X    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    X    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    0    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 10 9
+Score: 800
+Steps: 97/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    X    X    X    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    X    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    X    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    X    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    A    0    0         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 8
+Score: 800
+Steps: 111/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    X    X    X    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    X    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    X    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    X    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    X    0    A         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    X    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 5 10
+Score: 800
+Steps: 115/150
+
+---------------------------------
+Wumpus World output
+---------------------------------
+    9    X    X    X    X    X    X    X    X    X    0         Z    Z    Z    Z    G    Z    Z    Z    B    P
+    8    X    X    X    X    X    X    X    X    0    0         Z    Z    Z    Z    B    Z    Z    B    P    B
+    7    X    X    X    X    0    X    X    X    X    0         Z    Z    Z    B   PS    B    Z    Z   BG    Z
+    6    X    X    X    X    X    0    X    X    0    0         G    Z    Z    S   BW   GS   BG    B    G    Z
+    5    X    X    X    X    X    X    0    0    0    0         Z    Z    Z    Z    S    B   PB  PBG    B    G
+    4    X    X    X    X    X    X    X    X    0    X         Z    Z    Z    Z    Z    Z    B    B    P    B
+    3    X    X    X    X    X    X    X    X    X    X         B    Z    Z    Z    Z    Z    Z    Z    B    Z
+    2    0    X    X    X    X    X    X    X    X    X         P    B    G    Z    B    Z    Z    Z    Z    Z
+    1    X    X    X    X    0    X    X    X    X    X         B    Z    S   BG    P    B    Z    Z    Z    Z
+    0    A    X    X    X    X    X    X    X    X    X         Z    S    W    S   BG    G    G    Z    G    Z
+
+Pos: 1 1
+Score: 800
+Steps: 128/150
+
+Number of kills caused by Pits : 0
+Number of kills caused by Wumpus : 0
+Number of time get Negative Score : 0
+Number of time get Postive Score : 1
+Max Postive Score : 800
+Max Run Time : 18.722000
