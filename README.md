@@ -6,8 +6,8 @@ Applying OOP principles and UML desgin to build Simple Flight Booking System.
 Knapsack In Assembly: Final Project in Microprocessor Course.
 
 TicTacToe Game: Final Porject in Software Engineering for Web Applications Course. 
-using Java Servlets and JSP with MVC.
+using Java Servlets and JSP.
 
 Wumpus World: Project in AI Course.
-Applying first Order Logic and Knowledge Inference to solve Wumpus Game.
+Applying First Order Logic and Knowledge Inference to solve Wumpus Game.
 
